@@ -1,0 +1,14 @@
+layout_spectrum: 0.9090896998532116
+typography_spectrum: 0.04210494761355221
+color:
+  brandStrength: 0.2950638469774276
+  lightness: 0.9290463461074978
+  saturation: 0.5168041179422289
+  rhythmicContrast: 0.15827875956892967
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: SimplyWorks
