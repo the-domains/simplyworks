@@ -1,4 +1,3 @@
-layout_spectrum: 0.9090896998532116
 typography_spectrum: 0.04210494761355221
 color:
   brandStrength: 0.2950638469774276
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.9090896998532116
 name: SimplyWorks
 title: Fuji Xerox
+description: 'Solutions that Simply Work - for you, with you.'
